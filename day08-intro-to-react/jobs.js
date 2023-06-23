@@ -67,6 +67,4 @@ const jobs = [
   },
 ];
 
-
-console.log(document);
-console.log(body);
+export default jobs;
